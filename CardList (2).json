@@ -1,0 +1,48 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaiser",
+        "type": "Agente",
+        "cost": "4",
+        "image": "https://img.magnific.com/fotos-premium/desenho-de-fundo-abstrato-luz-aspera-alfabeto-cor-vermelha_851755-122606.jpg?semt=ais_hybrid&w=740&q=80",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "kaiser",
+        "type": "Agente",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "kaiser",
+    "type": "Agente",
+    "cost": "4"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "dante",
+        "type": "Agente",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "dante",
+        "type": "Agente",
+        "cost": "4",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "dante",
+    "type": "Agente",
+    "cost": "4"
+  }
+}
